@@ -1,0 +1,55 @@
+body {
+   background-color: gainsboro;
+        font-family: "Arial Rounded MT Bold";
+
+}
+
+h1 {
+   font-size: 15mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+h2 {
+   font-size: 12mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+h3 {
+   font-size: 10mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+h4 {
+   font-size: 8mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+h5 {
+   font-size: 6mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+h6 {
+   font-size: 4mm;
+    font-family: "Arial Rounded MT Bold"; 
+        background-color: gainsboro;
+    color: black;
+}
+
+button{
+  color:whitesmoke;
+    background-color: gray;
+    width: 100px;
+    height: 50px;
+    border-radius: 0px; 
+}
